@@ -1,0 +1,17 @@
+{
+    "name": "snowburstone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Annet Stirling"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/snowburstone-bower.git"
+    },
+    "description": "Snowburst One font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
